@@ -1,7 +1,7 @@
 import requests # pip install requests
 import json
 
-ACCESS_TOKEN = 'CAACEdEose0cBALQ4Mo7ZAHiVIH48pfZBEB6ZCAKQKdnZApnpQK5RYNn4qzv2dZCZBFvFWipEPHqkPZArCDGcralZBxz0qZCIkmEIIjSq4rZBDl4ZA1ZBZCVcNdZCZCnF8l3W1SqrMXlwHwWmmVbjlSGJFyoRHALrqP2zTeZASYLuow0AaDdfDRnGyVCYeLSvYzIz41EpDFRT9tQs6sUiZAQZDZD'
+ACCESS_TOKEN = ''
 
 base_url = 'https://graph.facebook.com/me'
 
